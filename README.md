@@ -1,6 +1,7 @@
 # Movies-Rating-Analysis-Python-Tableau
 
-![image.png](attachment:image.png)
+![image](https://github.com/user-attachments/assets/b0fc453d-166c-4461-8201-98cd548965fb)
+
 
 **The TMDb (The Movie Database) is a comprehensive movie database that provides information about movies, including details like titles, ratings, release dates, revenue, genres, and much more.**
 
