@@ -9,10 +9,10 @@
 📽️ Movies Ratings Analysis
 I conducted an in-depth analysis of movie ratings, covering:
 
-✅ Exploratory Data Analysis (EDA) – Examined data distribution and extracted key insights.
-✅ Data Cleaning – Removed null values and duplicates to ensure data quality.
-✅ Data Insights & Business Questions – Identified patterns and answered critical questions.
-✅ Data Visualization – Designed an interactive dashboard using Tableau for better understanding.
+- Exploratory Data Analysis (EDA) – Examined data distribution and extracted key insights.
+- Data Cleaning – Removed null values and duplicates to ensure data quality.
+- Data Insights & Business Questions – Identified patterns and answered critical questions.
+- Data Visualization – Designed an interactive dashboard using Tableau for better understanding.
 
 
 ![image](https://github.com/user-attachments/assets/42fc1461-f906-4e63-b92f-0d8fce564ea6)
